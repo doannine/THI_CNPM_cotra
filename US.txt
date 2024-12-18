@@ -1,0 +1,26 @@
+User case:
+-User: 
+Đăng kí: đăng kí bằng name, email, password
+Đăng nhập: đăng nhập với email, password đã nhập trong đăng kí
+Xem sản phẩm: xem những sản phẩm đang có trên web
+Xem thông tin chi tiết: xem những thông tin sản phẩm trên web
+-Admin:
+Đăng kí: đăng kí bằng  name, email, password
+Admin: để có thể vào web với tư cách là admin
+Đăng nhập: đăng nhập với những thông tin mình đã đăng kí 
+Xem sản phẩm: xem những sản phẩm có trên web
+Thêm sản phẩm: thêm vào những loại sản phẩm mới 
+Sửa sản phẩm: sửa lại những sản phẩm 
+Xoá sản phẩm: xoá sản phẩm  
+-Manager apple:
+Đăng kí: đăng kí bằng name, email, password
+Manager apple: đăng nhập vào web với tư cách manager apple
+Thêm sản phẩm: sản phẩm được thêm vào trên trang web bán hàng
+Sửa sản phẩm: sản phẩm được sửa vào trang web bán hàng
+Xoá sản phẩm: sản phẩm được xoá trong trang web bán hàng
+-Manager adroid:
+Đăng kí: đăng kí bằng name, email, password
+Manager adroid: đăng nhập vào web với tư cách manager adroid
+Thêm sản phẩm: sản phẩm được thêm vào trang web bán hàng
+Sửa sản phẩm: sản phẩm được sửa trên trang web bán hàng
+Xoá sản phẩm: sản phẩm được xoá trong web bán hàng

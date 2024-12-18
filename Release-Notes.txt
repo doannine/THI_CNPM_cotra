@@ -1,0 +1,35 @@
+**Release Notes**
+
+**1. Thông tin nhóm 7**
+
+- **Đoàn Công Chín**
+  - Vai trò: Trưởng nhóm, xây dựng trang chủ, trang xử lí và trang kết nối data.
+  - % đóng góp: 20%
+  
+- **Nhân Đức Khoa Nguyên**
+  - Vai trò: Quản lí trang Admin, chỉnh sửa và thêm sản phẩm.
+  - % đóng góp: 20%
+
+- **Đặng Quang Ngôn**
+  - Vai trò: Quản lí trang Apple, chỉnh sửa và thêm sản phẩm.
+  - % đóng góp: 20%
+
+- **Bùi Vũ Nhật Duy**
+  - Vai trò: Quản lí trang Andriod, chỉnh sửa và thêm sản phẩm.
+  - % đóng góp: 20%
+
+- **Trần Công Thịnh**
+  - Vai trò: Quản lí trang người dùng, đăng kí, đăng nhập, xem sản phẩm và thông tin sản phẩm.
+  - % đóng góp: 20%
+
+**2. Chú giải làm thế nào để chạy Source Code**
+
+**Yêu cầu hệ thống:**
+- Hệ điều hành: Windows.
+- Ngôn ngữ: Nodejs 
+- Cài đặt các package yêu cầu trong file `package.json`.
+- Database: MySQL 
+**Hướng dẫn chi tiết:**
+-Cài node js vào máy
+-khởi tạo  sql  
+-Đã cài sẵn các package trong file package.json chỉ cần git clone code về máy và npm start chạy ứng dụng  
